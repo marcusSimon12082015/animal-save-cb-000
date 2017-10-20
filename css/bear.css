@@ -11,6 +11,6 @@ html {
 /* Write your solution here */
 @media screen only and (max-width: 1196px){
   #bear{
-    top: 300px;
+    right:800px;
   }
 }
