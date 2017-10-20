@@ -9,9 +9,8 @@ html {
 }
 
 /* Write your solution here */
-@media screen only and (max-width: 900px){
+@media screen only and (max-width: 1196px){
   #bear{
-    float: none;
-    top:200px;
+    left: 800px;
   }
 }
